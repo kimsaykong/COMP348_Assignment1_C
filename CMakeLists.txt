@@ -3,4 +3,4 @@ project(COMP348_Assignment1_C C)
 
 set(CMAKE_C_STANDARD 23)
 
-add_executable(COMP348_Assignment1_C Question3.c AGGREGATE.h AGGREGATE.c Question5.c Question4.c)
+add_executable(COMP348_Assignment1_C Question3.c AGGREGATE.h AGGREGATE.c Question45.c Question678.c)
